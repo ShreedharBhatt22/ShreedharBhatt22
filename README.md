@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Shreedhar LinkedIn Banner(1).png">
+  <img src="Shreedhar LinkedIn Banner(2).png">
 </p>
 
 <p align="center">
