@@ -18,7 +18,7 @@
 Hi there 👋
 <br/>
 <br/>
-I'm Shreedhar Bhatt, a Computer Engineering undergraduate student at Pandit Deendayal Energy University (22' Batch), Gandhinagar, India. I am currently a Software Engineer intern aslo i am a Product Management and System Design Enthusiast.I love to explore new things and am ardent to learn new technologies.
+I'm Shreedhar Bhatt, a Computer Engineering undergraduate student at Pandit Deendayal Energy University (22' Batch), Gandhinagar, India. I am currently a Software Engineer intern also I am a Product Management and System Design Enthusiast. I love to explore new things and am ardent to learn new technologies.
 <br/>
 <br/>
 Areas of Interest: Software Engineering, Data Structures & Algorithms, Product Management, System Design, Internet of Things, UI-UX(Product) Designing.
